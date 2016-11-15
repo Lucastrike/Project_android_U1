@@ -1,0 +1,7 @@
+#Tue Nov 15 10:00:37 CET 2016
+base.0=/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b88fbe16b7a78748efac9d00f3f43f9915c03b5a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2306aabdf38c87a008e4bb1f12efd9bada831acf/classes.dex
+base.1=/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2306aabdf38c87a008e4bb1f12efd9bada831acf
+file.0=/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b88fbe16b7a78748efac9d00f3f43f9915c03b5a/classes.dex

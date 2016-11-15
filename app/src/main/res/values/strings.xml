@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">El carrito de la compra</string>
+    <string name="modo_noche">Modo noche</string>
+    <string name="modo_dia">Modo dia</string>
+</resources>

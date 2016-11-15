@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/build/intermediates/res/merged/release/menu/item_menu.xml",
+        "source": "/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/src/main/res/menu/item_menu.xml"
+    },
+    {
+        "merged": "/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/home/alumno_solvam/AndroidStudioProjects/Elcarritodelacompra/app/src/main/res/menu/menu_main.xml"
+    }
+]

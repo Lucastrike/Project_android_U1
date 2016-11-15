@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.com.lucassalinas.elcarritodelacompra.MainActivity">
+    <item
+        android:id="@+id/modo_noche"
+        android:orderInCategory="100"
+        android:title="@string/modo_noche"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/modo_dia"
+        android:orderInCategory="100"
+        android:title="@string/modo_dia"
+        app:showAsAction="never" />
+</menu>
